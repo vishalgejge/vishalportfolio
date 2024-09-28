@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/vishalportfolio/static/css/main.02e7db51.css",
+    "main.js": "/vishalportfolio/static/js/main.f994faa4.js",
+    "static/media/spotify-logo.png": "/vishalportfolio/static/media/spotify-logo.8d8c002ed6d9ab68c183.png",
+    "static/media/Python-logo.png": "/vishalportfolio/static/media/Python-logo.dea924d737bb84eb9ce3.png",
+    "static/media/portfolio-logo.png": "/vishalportfolio/static/media/portfolio-logo.a19aa165a2421efca87a.png",
+    "static/media/viswabharathi-logo.jpg": "/vishalportfolio/static/media/viswabharathi-logo.2a7ee0a8ea324edaa59a.jpg",
+    "static/media/logo-pyc78k0D.png": "/vishalportfolio/static/media/logo-pyc78k0D.0bb17ef5324c0af6e0b3.png",
+    "static/media/logo-moderncollege.png": "/vishalportfolio/static/media/logo-moderncollege.81483236f89418844ae5.png",
+    "static/media/CSS3-logo.png": "/vishalportfolio/static/media/CSS3-logo.b3314d1beb073984276d.png",
+    "static/media/vscode-logo.png": "/vishalportfolio/static/media/vscode-logo.691f776a11a21a483030.png",
+    "static/media/CPP-logo.png": "/vishalportfolio/static/media/CPP-logo.053a898d752aef72651e.png",
+    "static/media/bootstrap-logo.png": "/vishalportfolio/static/media/bootstrap-logo.9cd429090069a189475b.png",
+    "static/media/calculator.png": "/vishalportfolio/static/media/calculator.b732ad9d7379117ec5d2.png",
+    "static/media/Google-logo.png": "/vishalportfolio/static/media/Google-logo.52ee08d803d5fb963cea.png",
+    "static/media/JavaScript-logo.png": "/vishalportfolio/static/media/JavaScript-logo.062825dbceed44567e91.png",
+    "static/media/tictactoe-logo.png": "/vishalportfolio/static/media/tictactoe-logo.341e9ccfcad4da1e525d.png",
+    "static/media/C-logo.png": "/vishalportfolio/static/media/C-logo.bbbbbabc8c191bfb99bf.png",
+    "static/media/narayana-logo.png": "/vishalportfolio/static/media/narayana-logo.9e0eb0532291023855e6.png",
+    "static/media/simon-logo.png": "/vishalportfolio/static/media/simon-logo.b346c85f0080e928101c.png",
+    "static/media/mongodb-icon.svg": "/vishalportfolio/static/media/mongodb-icon.71878b738f870a417c99.svg",
+    "static/media/cmrit-logo.png": "/vishalportfolio/static/media/cmrit-logo.a45b7fff4123d79dff74.png",
+    "static/media/tailwindcss-logo.png": "/vishalportfolio/static/media/tailwindcss-logo.510927846e741f143522.png",
+    "static/media/modernlogo.png": "/vishalportfolio/static/media/modernlogo.d42c025fd69ae3dd9ad9.png",
+    "static/media/nodejs-logo.svg": "/vishalportfolio/static/media/nodejs-logo.bd8ae586b9726f8db265.svg",
+    "static/media/java-logo.svg": "/vishalportfolio/static/media/java-logo.a751bad6c81431ab4dd6.svg",
+    "index.html": "/vishalportfolio/index.html",
+    "main.02e7db51.css.map": "/vishalportfolio/static/css/main.02e7db51.css.map",
+    "main.f994faa4.js.map": "/vishalportfolio/static/js/main.f994faa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02e7db51.css",
+    "static/js/main.f994faa4.js"
+  ]
+}
