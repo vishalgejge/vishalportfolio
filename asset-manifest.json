@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vishalportfolio/static/css/main.02e7db51.css",
-    "main.js": "/vishalportfolio/static/js/main.f994faa4.js",
+    "main.js": "/vishalportfolio/static/js/main.ab56c2bb.js",
     "static/media/spotify-logo.png": "/vishalportfolio/static/media/spotify-logo.8d8c002ed6d9ab68c183.png",
     "static/media/Python-logo.png": "/vishalportfolio/static/media/Python-logo.dea924d737bb84eb9ce3.png",
     "static/media/portfolio-logo.png": "/vishalportfolio/static/media/portfolio-logo.a19aa165a2421efca87a.png",
@@ -27,10 +27,10 @@
     "static/media/java-logo.svg": "/vishalportfolio/static/media/java-logo.a751bad6c81431ab4dd6.svg",
     "index.html": "/vishalportfolio/index.html",
     "main.02e7db51.css.map": "/vishalportfolio/static/css/main.02e7db51.css.map",
-    "main.f994faa4.js.map": "/vishalportfolio/static/js/main.f994faa4.js.map"
+    "main.ab56c2bb.js.map": "/vishalportfolio/static/js/main.ab56c2bb.js.map"
   },
   "entrypoints": [
     "static/css/main.02e7db51.css",
-    "static/js/main.f994faa4.js"
+    "static/js/main.ab56c2bb.js"
   ]
 }
